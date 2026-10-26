@@ -14,15 +14,15 @@ Navegador: Google Chrome 155.0.8059.85
 
 Comando | Qué hace | Ejemplo real ejecutado |
 ------- | -------- | ---------------------- |
-`pwd` | Muestra la carpeta actual | Lo usé para ver la carpeta donde estaba ubicado y asi poder irme guiando a medida que entraba entre carpetas hasta llegar a la raíz donde iba a crear la carpeta mi-sitio|
-`ls` | Lista los archivos de la carpeta | Lo use para ir viendo como quedaban los archivos que iba creando y los archivos ya creados y poderme mover entre carpetas
-`cd`| moverse entre carpetas | Lo use para moverme entre carpetas y asi llegar hasta la carpeta destino |
-`mkdir`| Crear una carpeta | Cree todo el árbol de carpetas |
-`New-Item`| Crear un archvio vacío | Lo usé para crear los archivos vacios como index.html, README.md|
-`cp`| Crear copias de un archivo | cree una copia del index.html con el nombre imagen.html|
-`mv`| mueve o renombra un archivo | moví el archivo imagen.html a la carpeta img |
-`rm`| Elimina un archivo | lo usé para eliminar unas copias de prueba que había creado |
-`cat`| Mostrar el contenido en la terminal | Lo usé para ver el contenido que iba escribiendo en el README por medio de VS Code |
+`pwd` | Muestra la carpeta actual | `pwd` |
+`ls` | Lista los archivos de la carpeta | `ls` |
+`cd`| moverse entre carpetas | `cd C:\Users\alejo\Downloads\Programación\Fase1\Tema1\proyectos` |
+`mkdir`| Crear una carpeta | `mkdir mi-sitio` |
+`New-Item`| Crear un archvio vacío | `New-Item index.html`|
+`cp`| Crear copias de un archivo | `cp index.html imagen.html`|
+`mv`| mueve o renombra un archivo | `mv imagen.html img\imagen.html` |
+`rm`| Elimina un archivo | `rm copia.html` |
+`cat`| Mostrar el contenido en la terminal | `cat README.md` |
 
 Estos fueron los comandos que utilicé para dejar creado todo el arbol con estructuras e iba revisando que iba pasando
 
