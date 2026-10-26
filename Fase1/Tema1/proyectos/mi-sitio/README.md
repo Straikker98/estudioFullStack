@@ -18,7 +18,7 @@ Comando | Qué hace | Ejemplo real ejecutado |
 `ls` | Lista los archivos de la carpeta | `ls` |
 `cd`| moverse entre carpetas | `cd C:\Users\alejo\Downloads\Programación\Fase1\Tema1\proyectos` |
 `mkdir`| Crear una carpeta | `mkdir mi-sitio` |
-`New-Item`| Crear un archvio vacío | `New-Item index.html`|
+`New-Item`| Crear un archivo vacío | `New-Item index.html`|
 `cp`| Crear copias de un archivo | `cp index.html imagen.html`|
 `mv`| mueve o renombra un archivo | `mv imagen.html img\imagen.html` |
 `rm`| Elimina un archivo | `rm copia.html` |
@@ -31,4 +31,4 @@ Para la revisión en vivo en el DevTools realice los pasos que aparecen en la gu
 
 Tambien hice lo de Git, revise el estado y todo estaba bien, hice commit a todo en "Estructura correcta de carpetas", cambié el nombre del index, vi el estado y lo que habia sucedido con git status y luego restauré el index desde los comandos de git.
 
-Todo esto me pareció muy práctico y util para todo mi proceso formativo, aprendi sobre esto y me diverti en el proceso. Gacias Straikker.
+Todo esto me pareció muy práctico y util para todo mi proceso formativo, aprendi sobre esto y me diverti en el proceso. Gracias Straikker.
